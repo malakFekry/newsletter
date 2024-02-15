@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cmake.configureOnOpen": true
+} // {
+//     "java.configuration.updateBuildConfiguration": "automatic"
+// }
