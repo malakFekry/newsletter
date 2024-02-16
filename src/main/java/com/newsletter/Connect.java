@@ -13,7 +13,7 @@ public class Connect {
             // System.out.println("Connecting to SQLite...");
             // System.out.println(System.getProperty("user.dir"));
             // db parameters
-            String url = "jdbc:sqlite:"+System.getProperty("user.dir")+"\\src\\data\\test.db";
+            String url = "jdbc:sqlite:"+System.getProperty("user.dir")+"\\src\\data\\user.db";
             // create a connection to the database
             System.out.println(url);
             conn = DriverManager.getConnection(url);
